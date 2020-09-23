@@ -1,0 +1,18 @@
+{
+  "Hi from the second page": {
+    "origin": [
+      [
+        "src/pages/page-2.js",
+        13
+      ]
+    ]
+  },
+  "Hello World page 2": {
+    "origin": [
+      [
+        "src/pages/page-2.js",
+        16
+      ]
+    ]
+  }
+}

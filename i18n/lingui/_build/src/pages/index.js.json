@@ -1,0 +1,26 @@
+{
+  "Hello World": {
+    "origin": [
+      [
+        "src/pages/index.js",
+        15
+      ]
+    ]
+  },
+  "Link to second page": {
+    "origin": [
+      [
+        "src/pages/index.js",
+        24
+      ]
+    ]
+  },
+  "Link to second page (spanish version)": {
+    "origin": [
+      [
+        "src/pages/index.js",
+        29
+      ]
+    ]
+  }
+}
